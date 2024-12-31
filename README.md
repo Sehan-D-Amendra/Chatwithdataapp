@@ -18,3 +18,5 @@ Fully secured with environment variable-based API key management.
 This project is a step forward in democratizing data analysis by enabling anyone, regardless of technical expertise, to unlock the power of their data.
 
 🔗 Feel free to explore and connect with me if you're interested in discussing this project or collaborating on similar ideas!
+
+https://medium.com/@s19804/ai-data-analysis-agent-ec2e4bc99715
